@@ -29,7 +29,7 @@ Movie-Recommender-System/
 ### 1. Clone the repository
 
 ```sh
-git clone https://github.com/yourusername/Movie-Recommender-System.git
+git clone https://github.com/garvitjain-02/Movie-Recommender-System.git
 cd Movie-Recommender-System
 ```
 
@@ -62,4 +62,4 @@ streamlit run app.py
 
 ## License
 
-This project is for educational
+This project is for educational purpose.
